@@ -2,6 +2,9 @@
 
 A machine learning-based application for detecting fraudulent financial transactions.
 
+## Live Demo
+[Click here to view app](https://fraud-detection-project-lon3s8ghgvp4udpui3xnox.streamlit.app/)
+
 ## Features
 - Real-time fraud prediction
 - Model performance visualization
@@ -19,4 +22,16 @@ A machine learning-based application for detecting fraudulent financial transact
 
 ## Dataset
 The model was trained on [Financial Fraud Dataset](https://www.kaggle.com/datasets/) containing 6.3M transactions.
+# Fraud Detection ML App
+Machine Learning project to detect fraudulent transactions, built with Streamlit.
+
+## Features
+- Data preprocessing & feature engineering
+- Multiple ML models evaluated (Logistic Regression, Random Forest, etc.)
+- Interactive Streamlit interface
+- Probability-based predictions & visualizations
+
+## Tech Stack
+Python, Pandas, NumPy, scikit-learn, Streamlit, Matplotlib, Joblib
+
 
